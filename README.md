@@ -14,6 +14,7 @@ Dependencies
 
     qb-target
     nh-context
+    LegacyFuel
 
 
 Add This To qb-core > shared > jobs.lua
