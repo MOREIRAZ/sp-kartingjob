@@ -48,7 +48,6 @@ Add this To qb-core > shared item.lua
 ["burger-softdrink"] 		 = {["name"] = "burger-softdrink", 	    ["label"] = "Soft Drink",           ["weight"] = 125, 		["type"] = "item", 		["image"] = "bs_softdrink.png", 		    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "An Ice Cold Drink."},
 ["burger-heartstopper"] 	 = {["name"] = "burger-heartstopper",   ["label"] = "Heartstopper", 		["weight"] = 2500, 		["type"] = "item", 		["image"] = "bs_the-heart-stopper.png", 	["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Sates Hunger."},
 
-
 Add This To qb-smallresources > config.lua > ConsumeablesEat > 
 
 ["burger-heartstopper"] = math.random(35, 54),
